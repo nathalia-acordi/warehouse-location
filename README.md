@@ -15,5 +15,6 @@ O modelo base apresenta as seguintes instâncias:
 7. Capacidade de produção da planta (P)
 8. Tempo máximo de distribuição (T)
 9. Número de produtos (p)
+10. Novo armazém e cliente adicionados ao modelo
 
 O modelo pode ser estendido para incluir sistemas de distribuição multi-echelon, restrições de capacidade, economias de escala, considerações de tempo de serviço, múltiplos produtos e condições que impedem a divisão de pedidos.
